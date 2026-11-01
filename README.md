@@ -1,4 +1,4 @@
-# OPEL INTELLIGENCE
+# OPEL-INTELLIGENCE
 ### European Electrified Automotive AI & Telematics Platform
 
 > **IMPORTANT COMPLIANCE & LEGAL NOTICE**
